@@ -18,8 +18,7 @@ html {
 }
 
 body {
-	background-image: url("https://i.pinimg.com/originals/5b/9d/e8/5b9de8ac828bdd4e4d552c6def398b54.jpg");
-        background-repeat: no-repeat;
+	background-image: url("https://upload.wikimedia.org/wikipedia/commons/7/76/Ed_g2s_background.jpg");
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -29,7 +28,7 @@ body {
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
-  background: linear-gradient(to bottom right, #00ff0c, #00ffe9);
+  background: linear-gradient(to bottom right, #8342f4, #f442ee);
   border-radius: 25px;
 }
 
@@ -311,4 +310,3 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
-
